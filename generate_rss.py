@@ -7,6 +7,7 @@ urls = [
     "https://www.xataka.com/tag/crispr",
     "https://www.xataka.com/tag/genetica",
     "https://www.xataka.com/tag/retina",
+    "https://www.xataka.com/tag/fisica-cuantica",
     "https://www.xataka.com/tag/toyota",
     "https://www.xataka.com/tag/helicoptero",
     "https://www.xataka.com/tag/waymo",

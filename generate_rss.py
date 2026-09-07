@@ -8,6 +8,8 @@ urls = [
     "https://www.xataka.com/tag/genetica",
     "https://www.xataka.com/tag/retina",
     "https://www.xataka.com/tag/fisica-cuantica",
+    "https://www.xataka.com/tag/relatividad-general",
+    "https://www.xataka.com/tag/energia-nuclear",
     "https://www.xataka.com/tag/toyota",
     "https://www.xataka.com/tag/helicoptero",
     "https://www.xataka.com/tag/waymo",

@@ -5,6 +5,7 @@ import os
 
 urls = [
     "https://www.xataka.com/tag/crispr",
+    "https://www.xataka.com/tag/antimateria",
     "https://www.xataka.com/tag/hyundai",
     "https://www.xataka.com/tag/entrelazamiento-cuantico",
     "https://www.xataka.com/tag/fisica"
@@ -12,7 +13,6 @@ urls = [
     "https://www.xataka.com/tag/retina",
     "https://www.xataka.com/tag/fisica-cuantica",
     "https://www.xataka.com/tag/relatividad-general",
-    "https://www.xataka.com/tag/energia-nuclear",
     "https://www.xataka.com/tag/toyota",
     "https://www.xataka.com/tag/helicoptero",
     "https://www.xataka.com/tag/waymo",

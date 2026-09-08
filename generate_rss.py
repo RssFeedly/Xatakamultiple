@@ -5,6 +5,9 @@ import os
 
 urls = [
     "https://www.xataka.com/tag/crispr",
+    "https://www.xataka.com/tag/hyundai",
+    "https://www.xataka.com/tag/entrelazamiento-cuantico",
+    "https://www.xataka.com/tag/fisica"
     "https://www.xataka.com/tag/genetica",
     "https://www.xataka.com/tag/retina",
     "https://www.xataka.com/tag/fisica-cuantica",
@@ -13,12 +16,12 @@ urls = [
     "https://www.xataka.com/tag/toyota",
     "https://www.xataka.com/tag/helicoptero",
     "https://www.xataka.com/tag/waymo",
-    "https://www.xataka.com/categoria/seguridad",
     "https://www.xataka.com/tag/antivirus",
     "https://www.xataka.com/tag/hackers",
     "https://www.xataka.com/tag/ciberseguridad",
     "https://www.xataka.com/tag/seguridad-informatica",
     "https://www.xataka.com/tag/malware",
+    "https://www.xataka.com/categoria/seguridad",
     "https://www.xatakawindows.com/tag/seguridad",
     "https://www.xatakamovil.com/categoria/seguridad"
 ]

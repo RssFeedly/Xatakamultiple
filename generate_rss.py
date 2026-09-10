@@ -4,14 +4,33 @@ from feedgen.feed import FeedGenerator
 import os
 
 urls = [
-    "https://www.aciprensa.com/tags/14365/papa-leon-xiv",
-    "https://www.aciprensa.com/noticias/vaticano",
-    "https://www.aciprensa.com/tags/42/vaticano",
+    "https://www.xataka.com/tag/crispr",
+    "https://www.xataka.com/tag/antimateria",
+    "https://www.xataka.com/tag/ordenador-cuantico",
+    "https://www.xataka.com/tag/computacion-cuantica",
+    "https://www.xataka.com/tag/hyundai",
+    "https://www.xataka.com/tag/entrelazamiento-cuantico",
+    "https://www.xataka.com/tag/fisica",
+    "https://www.xataka.com/tag/genetica",
+    "https://www.xataka.com/tag/retina",
+    "https://www.xataka.com/tag/fisica-cuantica",
+    "https://www.xataka.com/tag/relatividad-general",
+    "https://www.xataka.com/tag/toyota",
+    "https://www.xataka.com/tag/helicoptero",
+    "https://www.xataka.com/tag/waymo",
+    "https://www.xataka.com/tag/antivirus",
+    "https://www.xataka.com/tag/hackers",
+    "https://www.xataka.com/tag/ciberseguridad",
+    "https://www.xataka.com/tag/seguridad-informatica",
+    "https://www.xataka.com/tag/malware",
+    "https://www.xataka.com/categoria/seguridad",
+    "https://www.xatakawindows.com/tag/seguridad",
+    "https://www.xatakamovil.com/categoria/seguridad"
 ]
 
 fg = FeedGenerator()
-fg.title("RSS Aci Prensa")
-fg.link(href="https://www.aciprensa.com")
+fg.title("RSS Xataka Personalizado")
+fg.link(href="https://www.xataka.com")
 fg.description("Feed generado automáticamente con GitHub Actions")
 
 print("Iniciando scrap de URLs...")
